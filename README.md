@@ -8,7 +8,7 @@ Para analizar:
      - Media, Mediana, cuartiles.  
      - Tabla para metricas:   
          
-       | Cargo |Agrup|Métrica|Valor (%)|
-       |:-----:|:----:|:-----:|:-----:|   
-
+       | Cargo |Agrup |   Métrica   |Valor (%)|
+       |:-----:|:----:|:-----------:|:-------:|   
+       | Pres  | Ag   | Mesas nulas |   9999  |
 [ ] Errores: todo lo geográfico + tipo de error + Nº de casos + %  
