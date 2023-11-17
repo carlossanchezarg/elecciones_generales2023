@@ -6,9 +6,10 @@ Para analizar:
 [ ] Calcular las siguientes métricas para detectar fraude o irregularidades en las mesas escrutadas:   
      - Ceros: Mesas con cero votos o con candidatos con cero votos.   
      - Media, Mediana, cuartiles.  
-     - Tabla para metricas:   
-         
-       | Cargo |Agrup |   Métrica   |Valor (%)|
-       |:-----:|:----:|:-----------:|:-------:|   
-       | Pres  | Ag   | Mesas nulas |   9999  |
-[ ] Errores: todo lo geográfico + tipo de error + Nº de casos + %  
+     - Tabla para métricas:   
+
+| Cargo |Agrup. |   Métrica   |Valor (%) |  
+|:-----:|:----:|:-----------:|:--------:|     
+| Pres  | Ag   | Mesas nulas |   9999   |  
+
+[ ] Errores: todo lo geográfico + tipo de error + N.º de casos + %  
