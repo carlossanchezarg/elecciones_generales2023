@@ -1,4 +1,6 @@
 ### Analisis de los resultados de las elecciones generales 2023
+**Ir a vesión web:** https://carlossanchezarg.github.io/elecciones_generales2023/
+
 
 * *Fuente de datos: https://www.argentina.gob.ar/dine/resultados-electorales/elecciones-2023*
 #### Los resultados están un archivo .csv, cuyas columnas siguen la siguiente especificación:
